@@ -1,0 +1,18 @@
+{
+  "name": "userservice-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.2",
+    "grunt": "^1.6.1",
+    "gulp": "^5.0.0",
+    "react": "^19.0.0",
+    "webpack": "^5.97.1"
+  }
+}
